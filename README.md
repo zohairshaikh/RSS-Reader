@@ -35,7 +35,7 @@ npm run-script build
 ```
 
 
-> Incase of any case that is not documented, Feel free to open an issue :)
+> If there are any case thise are not documented, Feel free to open an issue :)
 
 
 
