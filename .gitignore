@@ -4,3 +4,4 @@ static/node_modules/*
 static/assets/*
 .idea/*
 venv/*
+static/package-lock.json
